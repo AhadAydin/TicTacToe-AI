@@ -19,9 +19,5 @@ style.css: The CSS file that defines the styling for the game.
 
 README.md: This file, providing information about the game and its implementation.
 
-
-Contributions
-Contributions to this project are welcome. If you have any suggestions, bug reports, or improvements, feel free to open an issue or submit a pull request on the GitHub repository.
-
 # License
 This project is licensed under the MIT License.
