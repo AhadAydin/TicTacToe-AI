@@ -12,8 +12,11 @@ In this implementation, the Minimax algorithm is used to determine the computer'
 
  # Files and Directory Structure
 index.html: The main HTML file that includes the necessary scripts and sets up the game canvas.
+
 sketch.js: The p5.js sketch file that contains the game logic and rendering functions.
+
 style.css: The CSS file that defines the styling for the game.
+
 README.md: This file, providing information about the game and its implementation.
 
 
